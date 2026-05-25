@@ -1,0 +1,6 @@
+{
+  "name": "MAVNOVA",
+  "description": "A highly futuristic, cinematic, and immersive landing page for MAVNOVA, the modern school innovation and extracurricular ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
